@@ -1,5 +1,5 @@
 # Divide and Conquer
-Dado una lista de números determinar si están ordenados
+Dado una lista de números determinar si están ordenados en forma creciente
 ## Input
 Cantidad de números del array
 lista de números
