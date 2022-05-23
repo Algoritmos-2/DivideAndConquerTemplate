@@ -7,14 +7,14 @@ lista de números
 Suma más grande de números consecutivos
 ## Ejemplo
 ### Input
-8
--2
--5
-6
--2
--3
-1
-5
+8 <br/>
+-2 <br/>
+-5 <br/>
+6 <br/>
+-2 <br/>
+-3 <br/>
+1 <br/>
+5 <br/>
 -6
 ### Output
 7
