@@ -1,20 +1,20 @@
 # Divide and Conquer
-Dado un array de enteros (puede contener negativos) se pide encontrar la suma más grande de números consecutivos.
+Dado una lista de números determinar si están ordenados
 ## Input
 Cantidad de números del array
 lista de números
 ## Output
-Suma más grande de números consecutivos
+True o False
 ## Ejemplo
 ### Input
-8 <br/>
--2 <br/>
--5 <br/>
-6 <br/>
--2 <br/>
--3 <br/>
 1 <br/>
+2 <br/>
 5 <br/>
--6
+6 <br/>
+8 <br/>
+9 <br/>
+10 <br/>
+15 <br/>
+16
 ### Output
-7
+True
